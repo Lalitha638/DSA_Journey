@@ -1,50 +1,100 @@
-# 📘 DSA with Python – My Learning Journey
+📘 DSA with Python – My Learning Journey
 
-Welcome to my daily **Data Structures & Algorithms (DSA)** learning journey using **Python**.  
-The goal of this repository is to improve my problem-solving skills, strengthen fundamentals, and stay consistent every single day.
+A daily commitment to improving problem-solving skills & mastering core Data Structures.
 
----
+🏆 About This Repository
 
-## 📅 Daily Progress
-I will be uploading my daily practice here:
+This repository documents my daily progress as I begin my journey into
+Data Structures and Algorithms (DSA) using Python.
+Every day, I upload:
 
-### ✅ **Day 01 – Introduction & Arrays**
-- What is DSA?
-- Why DSA is important?
-- Basics of Arrays in Python  
-- Simple operations: access, update, append, remove, length  
-➡️ Code: `Day01/arrays_basics.py`  
-➡️ Notes: `Day01/notes.txt`
+✔️ Programs
 
----
+✔️ Notes
 
-## 🧠 Why DSA with Python?
-- Python makes concepts easy to learn  
-- Good for beginners  
-- Useful for interviews, logic building, and algorithms  
-- Improves coding confidence  
+✔️ Concepts learned
 
----
+✔️ Practice questions
 
-## 🎯 My Goals
-- Learn DSA step-by-step  
-- Practice every day and stay consistent  
-- Build strong logic and problem-solving  
-- Prepare for developer interviews  
-- Become a better Python & AI developer
+🚀 My DSA Goals
 
----
+Build strong problem-solving skills
 
-## 🛠 Technologies Used
-- **Python 3**
-- Git & GitHub for version control  
-- VS Code / PyCharm
+Understand step-by-step how each data structure works
 
----
+Improve coding logic
 
-## 🤝 Connect With Me
-Feel free to follow my journey or suggest improvements!
+Prepare for future interviews & advanced AI topics
 
----
+📅 Daily Progress Tracker
+Day	Topic	Status	Code File
+Day 01	Arrays – Basics	✅ Completed	Day01.py
 
-⭐ *This repository will grow every single day. Stay tuned for more!*  
+Day 02	Coming Soon	⏳ Pending	—
+Day 03	Coming Soon	⏳ Pending	—
+Day 04	Coming Soon	⏳ Pending	—
+📚 Topics I Will Cover
+🔹 Data Structures
+
+Arrays
+
+Linked Lists
+
+Stacks
+
+Queues
+
+Trees
+
+Graphs
+
+Hash Tables
+
+🔹 Algorithms
+
+Searching
+
+Sorting
+
+Recursion
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Backtracking
+
+📈 Roadmap Progress
+DSA Basics         ████████░░ 80%
+Arrays             ██████████ 100%
+Linked Lists       ░░░░░░░░░░ 0%
+Stacks & Queues    ░░░░░░░░░░ 0%
+Searching          ░░░░░░░░░░ 0%
+Sorting            ░░░░░░░░░░ 0%
+Trees & Graphs     ░░░░░░░░░░ 0%
+
+🧠 Why I Started This Journey
+
+To become a strong Python and AI developer, DSA is a must.
+This journey is my promise to:
+
+Stay consistent
+
+Learn daily
+
+Become better step by step
+
+📝 Day 01 Summary – Arrays
+
+What is an Array?
+
+How elements are stored
+
+Accessing items using index
+
+Basic array problems solved in Python
+
+💡 Final Note
+
+This repository will grow every day.
+I’m excited to look back after 30 days and see how far I’ve come! 💙
