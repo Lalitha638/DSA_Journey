@@ -4,16 +4,11 @@ A daily commitment to improving problem-solving skills & mastering core Data Str
 
 🏆 About This Repository
 
-This repository documents my daily progress as I begin my journey into
-Data Structures and Algorithms (DSA) using Python.
-Every day, I upload:
+This repository documents my daily progress as I begin my journey into Data Structures and Algorithms (DSA) using Python. Every day, I upload:
 
 ✔️ Programs
-
 ✔️ Notes
-
 ✔️ Concepts learned
-
 ✔️ Practice questions
 
 🚀 My DSA Goals
@@ -29,8 +24,7 @@ Prepare for future interviews & advanced AI topics
 📅 Daily Progress Tracker
 Day	Topic	Status	Code File
 Day 01	Arrays – Basics	✅ Completed	Day01.py
-
-Day 02	Coming Soon	⏳ Pending	—
+Day 02	Linear Search	✅ Completed	Day02.py
 Day 03	Coming Soon	⏳ Pending	—
 Day 04	Coming Soon	⏳ Pending	—
 📚 Topics I Will Cover
@@ -65,13 +59,22 @@ Dynamic Programming
 Backtracking
 
 📈 Roadmap Progress
-DSA Basics         ████████░░ 80%
-Arrays             ██████████ 100%
-Linked Lists       ░░░░░░░░░░ 0%
-Stacks & Queues    ░░░░░░░░░░ 0%
-Searching          ░░░░░░░░░░ 0%
-Sorting            ░░░░░░░░░░ 0%
-Trees & Graphs     ░░░░░░░░░░ 0%
+
+DSA Basics ▓▓▓▓▓▓▓░░ 80%
+
+Arrays ██████████ 100%
+
+Linear Search ██████████ 100%
+
+Linked Lists ░░░░░░░░░░ 0%
+
+Stacks & Queues ░░░░░░░░░░ 0%
+
+Searching ▓▓░░░░░░░░ 20%
+
+Sorting ░░░░░░░░░░ 0%
+
+Trees & Graphs ░░░░░░░░░░ 0%
 
 🧠 Why I Started This Journey
 
@@ -86,15 +89,37 @@ Become better step by step
 
 📝 Day 01 Summary – Arrays
 
-What is an Array?
+What is an Array
 
 How elements are stored
 
-Accessing items using index
+Indexing
 
-Basic array problems solved in Python
+Traversing
+
+Basic Array Problems in Python
+
+📝 Day 02 Summary – Linear Search
+
+What is Linear Search
+
+When to use it
+
+Best, worst, average cases
+
+Search using for loop
+
+Search using while loop
+
+Find smallest number
+
+Find largest number
+
+Reverse search
+
+Python implementation added in Day02.py
 
 💡 Final Note
 
 This repository will grow every day.
-I’m excited to look back after 30 days and see how far I’ve come! 💙
+I'm excited to look back after 30 days and see how far I've come! 💙
