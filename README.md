@@ -1,33 +1,41 @@
 📘 DSA with Python – My Learning Journey
 
-A daily commitment to improving problem-solving skills & mastering core Data Structures.
+A consistent journey to strengthen problem-solving skills and master core Data Structures & Algorithms using Python.
 
 🏆 About This Repository
 
-This repository documents my daily progress as I begin my journey into Data Structures and Algorithms (DSA) using Python. Every day, I upload:
+This repository documents my step-by-step learning journey in Data Structures and Algorithms (DSA) using Python.
 
-✔️ Programs
-✔️ Notes
-✔️ Concepts learned
-✔️ Practice questions
+Each update includes:
+
+✔️ Python programs
+
+✔️ Key concepts learned
+
+✔️ Practice logic & examples
+
+✔️ Clean, beginner-friendly code
+
+The focus is on understanding fundamentals, not just finishing topics.
 
 🚀 My DSA Goals
 
 Build strong problem-solving skills
 
-Understand step-by-step how each data structure works
+Understand how data structures work internally
 
-Improve coding logic
+Improve logical thinking with Python
 
-Prepare for future interviews & advanced AI topics
+Create a solid foundation for future AI & interview preparation
 
 📅 Daily Progress Tracker
 Day	Topic	Status	Code File
 Day 01	Arrays – Basics	✅ Completed	Day01.py
 Day 02	Linear Search	✅ Completed	Day02.py
-Day 03	Coming Soon	⏳ Pending	—
-Day 04	Coming Soon	⏳ Pending	—
-📚 Topics I Will Cover
+Day 03	Linked List – Basics	✅ Completed	Day03.py
+Day 04	Linked List – Operations	⏳ Planned	—
+Day 05	Stacks	⏳ Planned	—
+📚 Topics Covered & Planned
 🔹 Data Structures
 
 Arrays
@@ -59,67 +67,70 @@ Dynamic Programming
 Backtracking
 
 📈 Roadmap Progress
-
-DSA Basics ▓▓▓▓▓▓▓░░ 80%
-
-Arrays ██████████ 100%
-
-Linear Search ██████████ 100%
-
-Linked Lists ░░░░░░░░░░ 0%
-
-Stacks & Queues ░░░░░░░░░░ 0%
-
-Searching ▓▓░░░░░░░░ 20%
-
-Sorting ░░░░░░░░░░ 0%
-
-Trees & Graphs ░░░░░░░░░░ 0%
+DSA Basics          ████████░░ 80%
+Arrays              ██████████ 100%
+Linear Search       ██████████ 100%
+Linked Lists        ███░░░░░░░ 30%
+Stacks & Queues     ░░░░░░░░░░ 0%
+Searching           ██░░░░░░░░ 20%
+Sorting             ░░░░░░░░░░ 0%
+Trees & Graphs      ░░░░░░░░░░ 0%
 
 🧠 Why I Started This Journey
 
-To become a strong Python and AI developer, DSA is a must.
-This journey is my promise to:
+To grow as a Python developer and move toward AI development, mastering DSA is essential.
+
+This repository is my commitment to:
 
 Stay consistent
 
 Learn daily
 
-Become better step by step
+Improve logically and technically
 
-📝 Day 01 Summary – Arrays
+Track real progress over time
 
-What is an Array
+📝 Learning Summary
+🔹 Day 01 – Arrays
 
-How elements are stored
+What is an array
 
-Indexing
+Memory & indexing
 
-Traversing
+Traversing arrays
 
-Basic Array Problems in Python
+Basic array operations in Python
 
-📝 Day 02 Summary – Linear Search
+🔹 Day 02 – Linear Search
 
-What is Linear Search
+Concept of linear search
 
-When to use it
+Best, worst & average cases
 
-Best, worst, average cases
+Searching using for and while loops
 
-Search using for loop
+Finding smallest & largest elements
 
-Search using while loop
+Reverse traversal
 
-Find smallest number
+Python implementation added
 
-Find largest number
+🔹 Day 03 – Linked List (Basics)
 
-Reverse search
+Understanding nodes and links
 
-Python implementation added in Day02.py
+Difference between arrays & linked lists
+
+Creating a linked list in Python
+
+Traversing a linked list
+
+Inserting nodes at beginning and end
 
 💡 Final Note
 
-This repository will grow every day.
-I'm excited to look back after 30 days and see how far I've come! 💙
+This repository will grow day by day as I continue learning and practicing DSA in Python.
+
+My goal is not speed, but clarity, consistency, and confidence.
+
+🌱 Looking forward to seeing my growth after 30 days!
